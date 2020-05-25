@@ -20,7 +20,7 @@ jjjj
 * How to run tests
 * Deployment instructions
 
-### Contribution guidelines ###
+### Contribution guidelines #####
 
 * Writing tests
 * Code review
