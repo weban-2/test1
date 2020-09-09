@@ -5,7 +5,7 @@ jobs:
     - stage: unit tests
       script: echo one
     - stage: unit tests
-      script: echo two
+      script: echo test
     - stage: deploy to staging
       script: skip
       deploy: &heroku
