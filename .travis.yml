@@ -1,6 +1,6 @@
 before_install:
   - 'gem install bundler:1.16.1'
-fake: 'something'
+fake: 'something d'
 jobs:
   include:
     - stage: unit tests
