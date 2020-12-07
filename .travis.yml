@@ -15,10 +15,6 @@ jobs:
         on: sf-stages-demo
     - stage: test staging
       script: 'curl http://sf-stages-staging.herokuapp.com'
-    - stage: deploy to production
-      script: /bin/true
-      deploy:
-        <<: *heroku
-        app: sf-stages-production
+
     - stage: test production
       script: 'curl http://sf-stages-production.herokuapp.com'
