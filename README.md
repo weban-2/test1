@@ -31,4 +31,4 @@ jjjj
 
 * Repo owner or admin
 * Other community or team contact
-Assembla-prd vcs service
+Assembla-prd vcs services
